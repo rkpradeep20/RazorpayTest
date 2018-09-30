@@ -1,0 +1,16 @@
+PODS:
+  - razorpay-pod (1.0.23)
+
+DEPENDENCIES:
+  - razorpay-pod
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - razorpay-pod
+
+SPEC CHECKSUMS:
+  razorpay-pod: d2acb66aae3bf44ae360aa1ed0ba188f0c57cc21
+
+PODFILE CHECKSUM: 4a9e57d86c9bba55f3adc280a301868be438bd97
+
+COCOAPODS: 1.5.2
